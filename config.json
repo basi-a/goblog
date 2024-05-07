@@ -1,0 +1,11 @@
+{
+    "domains": [],
+    "trusted_proxies": [],
+    "cros": {
+        "allow_origins": [],
+        "allow_credentials": true
+    },
+    "dbfile": "goblog.db",
+    "mode": "debug",
+    "tls": false
+}
